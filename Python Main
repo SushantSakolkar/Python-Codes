@@ -1,0 +1,5 @@
+1. Hamming Distance
+# Exor (^) returns 1 if bits are diffrent.
+# To count # of 1s in integer : bin(n).count("1")
+
+2. 
